@@ -1,1 +1,2 @@
 Paul second file content
+Writing into file 2 by Paul
